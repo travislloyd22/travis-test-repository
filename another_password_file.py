@@ -1,2 +1,2 @@
 # More passwords
-pwd="mzkFBFLDzNGJx7j"
+another_pwd="nX9ubNWokdPRH4nA"
